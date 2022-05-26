@@ -1,5 +1,5 @@
 project: rnshah9/ossc
-target: ossc
+target: bin2hex
 
 cmds:
   - cmd: /repo/tools/bin2hex 5 @@ out
