@@ -2,4 +2,4 @@ project: ossc
 target: bin2hex
 
 cmds:
-  - cmd: /repo/tools/bin2hex 5 @@ out
+  - cmd: /bin2hex 5 @@ out
